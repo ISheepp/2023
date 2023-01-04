@@ -1,6 +1,7 @@
 # [GET_UP](https://github.com/ISheepp/2023/issues/1)
 
 The record for get up early
+[method](https://github.com/yihong0618/gitblog/issues/198)
 
 ---
 
