@@ -15,6 +15,10 @@ The record for get up early
 
 ---
 
-> 10AM, get up early?😆
+现在的天气是: 6°C，有雾
+今天的起床时间是--2023-01-04 10:02:57.
 
-测试下action有没有生效🤔
+ Test 快捷指令
+
+ >  我们登上并非我们所选择的舞台，演出并非我们所选择的剧本。 
+ From: Enchiridion-----爱比克泰德
