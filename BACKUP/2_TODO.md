@@ -14,3 +14,8 @@ record todo list
 
 - [x] 小站 容器缺陷修复
 - [x] 编写sdk文档
+
+---
+
+- [ ] [arithmetic](https://github.com/lidangzzz/How-to-run) 实践ts语法
+- [ ] [pancake合约解读](https://www.axihe.com/pancake-smart-contracts/masterchef/v1.html) pancake源码解读
