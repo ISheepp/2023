@@ -19,3 +19,9 @@ record todo list
 
 - [ ] [arithmetic](https://github.com/lidangzzz/How-to-run) 实践ts语法
 - [ ] [pancake合约解读](https://www.axihe.com/pancake-smart-contracts/masterchef/v1.html) pancake源码解读
+
+---
+
+- [ ] 原型
+- [ ] 需求文档编写
+- [ ] 设计文档
