@@ -46,4 +46,4 @@ record todo list
 - [x] 模型管理需求文档
 
 ## 重要
-- [ ] 立项ppt
+- [x] 立项ppt
