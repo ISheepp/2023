@@ -47,3 +47,12 @@ record todo list
 
 ## 重要
 - [x] 立项ppt
+
+---
+
+Resume
+
+- [ ] ThreadLocal
+- [ ] ACID
+- [ ] HashMap和HashTable
+- [ ] BeanFactory和ApplicationContext
