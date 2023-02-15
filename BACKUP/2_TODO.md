@@ -53,6 +53,6 @@ record todo list
 Resume
 
 - [ ] ThreadLocal
-- [ ] ACID
-- [ ] HashMap和HashTable
-- [ ] BeanFactory和ApplicationContext
+- [x] ACID
+- [x] HashMap和HashTable
+- [x] BeanFactory和ApplicationContext
