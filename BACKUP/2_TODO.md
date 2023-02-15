@@ -56,3 +56,8 @@ Resume
 - [x] ACID
 - [x] HashMap和HashTable
 - [x] BeanFactory和ApplicationContext
+
+---
+
+- [ ] MVCC的原理
+- [ ] mybatis
