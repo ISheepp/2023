@@ -59,5 +59,5 @@ Resume
 
 ---
 
-- [ ] MVCC的原理
-- [ ] mybatis
+- [x] MVCC的原理
+- [x] mybatis
